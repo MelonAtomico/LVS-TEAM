@@ -74,7 +74,7 @@ nav {
         color: white;
         transition: color .5s;
     
-        .dropdown .dropdown-menu .dropdown-item:hover{
+        &:hover{
             color: rgba(255, 153, 0, 0.459);
         }
     }
